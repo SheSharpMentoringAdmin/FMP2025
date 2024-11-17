@@ -1,4 +1,4 @@
 const Test = () => {
-  return <div>Hello world dev</div>;
+  return <div>Hello world test</div>;
 };
 export default Test;
